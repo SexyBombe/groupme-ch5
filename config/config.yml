@@ -1,6 +1,6 @@
 defaults: &defaults
   app_name: "groupme"
-  domain: "http://groupme-ch4.dev"    
+  domain: "http://groupme-ch5.dev"    
   facebook_app_id: 
   facebook_secret: 
   hipchat_token: 
